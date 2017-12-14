@@ -1,10 +1,13 @@
 # thematermux
 Change Thema Termux - Termux Thema Changer
 
+=============================
+
 Allow to set Thema for Termux,Set Colors and Fonts.
 
-Without Install Termux Styling 
+Without Install Termux Styling App
 
+=======================--=-==
 
 Install:
 
@@ -15,3 +18,5 @@ cd  thematermux
 chmod +x changethema.sh
 
 ./changethema.sh
+
+done!
